@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+*.txt eol=crlf
+*.ini eol=crlf
+*.cfg eol=crlf
+*.json eol=crlf
+*.ahk eol=crlf
+*.md eol=crlf
